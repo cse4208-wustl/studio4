@@ -83,8 +83,3 @@ Record your answers in `ANSWERS.md` as you work. Include the names of everyone w
 ## Deliverables
 
 Commit and push all modified and added files to the repo.
-
-## Notes
-
-- The original Studio 4 page told students to create a fresh course subdirectory and upload a text file to Canvas. Those workflow instructions were removed so the repo can serve as the assignment source of truth.
-- This source material assumes students already completed Studio 2. This repo therefore expects students to bring forward their own `Pressure` and `Weekday` files from that work rather than publishing prior-studio solution code here.
